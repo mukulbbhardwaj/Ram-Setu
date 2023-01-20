@@ -2,7 +2,7 @@
 
 <br>
 
-This is a "Ramayan" Themed arcade game created with vanilla HTML, CSS and JS.
+This is a "Ramayan" themed arcade game created with vanilla HTML, CSS and JS.
 
 ![info-img](https://user-images.githubusercontent.com/64952178/193568380-563de9d5-aa9c-4e9e-89d4-0ba81c0d61ea.jpeg)
 
